@@ -1,0 +1,19 @@
+{
+ "decks_sha256": {
+  "en": "a636b0a391a798e5b6da0ed351725f230a23d436e9f28973fc494e25a1503d8e",
+  "ru": "53b08e9bba3ce1c0024e33f1e9f9483e0c03da4de6b2d858a1cab20ef393a65a"
+ },
+ "deck_ver": "1.0",
+ "iter": 600000,
+ "cname": "invest-vip.royaresort.com",
+ "template_sha16": "21766dcee649ffa3",
+ "files": {
+  "index.html": "f7ddf55d63eb757995f03045033b448be4b0c6bc6c2f76ee84e92d6a9712a544",
+  "meta.json": "d5ec2f898b04ab691c889748d00344d8ac33bee8154630ff88eb6d4fb0ba75f7",
+  "robots.txt": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+  "CNAME": "f4d85564d1e18457ee344489f0bbdc1897b73fb5d6fa0542b800f7c5dcb18a8e",
+  ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "payload-en.bin": "31b6628fc925497974ff7292879d78c664c8f79ccd37f838cbaa4b3b98afa70f",
+  "payload-ru.bin": "5fbf2d2e7b2cca6e29329e7d5a0ed6b375742ec1bcd5d1e14c14e005f4270e26"
+ }
+}
